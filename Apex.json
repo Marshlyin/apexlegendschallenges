@@ -1,0 +1,6 @@
+{
+     
+    "quests":[
+        {"id":"1", "type":"*","place":"*","qt_act" : "0", "qt_max" : "1", "desc" : "Win a ranked match"}    
+    ]
+}
