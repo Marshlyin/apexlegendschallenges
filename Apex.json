@@ -1,6 +1,16 @@
-{
-     
+{     
     "quests":[
-        {"id":"1", "type":"*","place":"*","qt_act" : "0", "qt_max" : "1", "desc" : "Win a ranked match"}    
+        {"id":"1", "type":"*","place":"*","qt_act" : "0", "qt_max" : "1", "desc" : "Win a ranked match"},
+        {"id":"2", "type":"*","place":"*","qt_act" : "2", "qt_max" : "5", "desc" : "Top 5 ranked match"},
+        {"id":"3", "type":"*","place":"*","qt_act" : "0", "qt_max" : "1", "desc" : "Win a ranked match"},
+        {"id":"4", "type":"*","place":"*","qt_act" : "0", "qt_max" : "1", "desc" : "Win a ranked match"},
+        {"id":"5", "type":"*","place":"*","qt_act" : "0", "qt_max" : "1", "desc" : "Win a ranked match"},
+        {"id":"6", "type":"*","place":"*","qt_act" : "0", "qt_max" : "1", "desc" : "Win a ranked match"},
+        {"id":"7", "type":"*","place":"*","qt_act" : "0", "qt_max" : "1", "desc" : "Win a ranked match"},
+        {"id":"8", "type":"*","place":"*","qt_act" : "0", "qt_max" : "1", "desc" : "Win a ranked match"},
+        {"id":"9", "type":"*","place":"*","qt_act" : "0", "qt_max" : "1", "desc" : "Win a ranked match"},
+        {"id":"10", "type":"*","place":"*","qt_act" : "0", "qt_max" : "1", "desc" : "Win a ranked match"},
+        {"id":"11", "type":"*","place":"*","qt_act" : "0", "qt_max" : "1", "desc" : "Win a ranked match"}
+
     ]
 }
