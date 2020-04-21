@@ -1,17 +1,23 @@
 {     
     "quests":[
-        {"id":"",
-         "type":"",
-         "place":"",
-         "weapon":{
-            "weapon_type" : "",
-            "weapon_name" : ""
+        {
+            "id":"",
+            "type":[],
+            "place":"",
+            "weapon":{
+                "weapon_type" : "",
+                "weapon_name" : ""
                      },
-        "qt":{
-            "qt_act":"",
-            "qt_max":""
-                    }, 
-        "desc" : ""}     
+            "champion" : {
+                "champion_name":"",
+                "champion_ability":""
+            },         
+            "qt":{
+                "qt_act":"0",
+                "qt_max":""
+                 }, 
+            "desc" : ""}
+
         
     ]
 }
